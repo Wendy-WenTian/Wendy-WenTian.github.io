@@ -14,7 +14,7 @@ title                    : "Wen Tian"
 title_separator          : "-"
 name                     : &name "Wen Tian"
 description              : &description "Phd Student @ PSU"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wendy-wentian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Wen Tian"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "State College, PA, 16803"
   employer         : "Penn State University"
   uri              : # URL
