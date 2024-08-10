@@ -17,7 +17,7 @@ However, the impact of the green license policy on consumer surplus largely depe
 Furthermore, the implementation of the license quota policy in Beijing resulted in estimated environmental gains of \$0.51 to \$1.19 billion, but also a total welfare loss of \$3.59 billion. When considering the license quota policy, the adoption of the green license policy and EV subsidies could efficiently improve overall welfare.
 These findings demonstrate the effectiveness of EV policies in putting more EVs on the road and underscore the critical role of government in promoting fuel-saving technologies.
 
-## Heterogeneous Impacts of Vertical Restraints Antitrust Event? Evidence from China ”
+## Heterogeneous Impacts of Vertical Restraints Antitrust Event? Evidence from China 
 **_Working Paper_**
 
 **_Abstract:_** In this paper, I analyze the effects of China’s first antitrust case on the practice of resale price maintenance in the automobile market in August 2014. I investigate the impacts and duration of this event using a difference-in-differences framework. The results indicate that the antitrust case led to a negative sales impact of - 9.108% on Audi products. However, the relationship between transaction prices set by dealers and manufacturers’ suggested retail prices (MSRP) set by manufacturers remained unchanged after the antitrust case, suggesting that the Audi antitrust event was
