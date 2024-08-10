@@ -13,8 +13,8 @@ redirect_from:
 To estimate the demand for EVs influenced by these policies, I develop a two-stage discrete choice model to identify consumer preferences for both license plate types and vehicle models. This model is then used to quantify the welfare impacts of subsidies and the green license policy in Beijing from 2014 to 2015.
 Counterfactual analysis reveals that the green license policy in Beijing is cost-effective in promoting EV sales, equivalent to approximately \$5839 in EV subsidies. 
 However, the impact of the green license policy on consumer surplus largely depends on the number of firms competing in the EV market. Additionally, the study finds that neither EV subsidies nor the green license policy led to significant substitution between EVs and gasoline vehicles (GVs) during the sample period, indicating limited environmental gains from these EV promotion policies.
-Furthermore, the implementation of the license quota policy in Beijing resulted in estimated environmental gains of \$0.51 to \$1.19 billion, but also a total welfare loss of \$3.59 billion. When considering the license quota policy, the adoption of the green license policy and EV subsidies could efficiently improve overall welfare.
-These findings demonstrate the effectiveness of EV policies in putting more EVs on the road and underscore the critical role of government in promoting fuel-saving technologies.
+<!--Furthermore, the implementation of the license quota policy in Beijing resulted in estimated environmental gains of \$0.51 to \$1.19 billion, but also a total welfare loss of \$3.59 billion. When considering the license quota policy, the adoption of the green license policy and EV subsidies could efficiently improve overall welfare.
+These findings demonstrate the effectiveness of EV policies in putting more EVs on the road and underscore the critical role of government in promoting fuel-saving technologies. -->
 
 ## Heterogeneous Impacts of Vertical Restraints Antitrust Event? Evidence from China 
 **_Working Paper_** <be>
