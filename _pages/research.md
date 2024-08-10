@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## The Roles of Subsidy and Green License Policy in Putting More Electric Vehicles on the Road: Evidence from Beijing [🚗]()
-:   **_Job Market Paper_** 
 
+:   **_Job Market Paper_** 
 :   > **_Abstract:_** This study examines two electric vehicles (EVs) promotion policies in Beijing: EV subsidies and the green license plate policy (a practice in China that provides EVs distinctive license plates and exempts them from stringent license quota policy on vehicles) in encouraging the adoption of EVs in the early stages of their development. 
 To estimate the demand for EVs influenced by these policies, I develop a two-stage discrete choice model to identify consumer preferences for both license plate types and vehicle models. This model is then used to quantify the welfare impacts of subsidies and the green license policy in Beijing from 2014 to 2015.
 Counterfactual analysis reveals that the green license policy in Beijing is cost-effective in promoting EV sales, equivalent to approximately \$5839 in EV subsidies. 
