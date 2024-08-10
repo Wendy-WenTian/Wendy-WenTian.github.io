@@ -10,7 +10,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Wen's Homepage"
 title_separator          : "-"
 name                     : &name "Wen Tian"
 description              : &description "Phd Student @ PSU"
