@@ -1,27 +1,27 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /research/
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## The Roles of Subsidy and Green License Policy in Putting More Electric Vehicles on the Road: Evidence from Beijing
+**_Job Market Paper_**
+**_Abstract:_** This study examines two electric vehicles (EVs) promotion policies in Beijing: EV subsidies and the green license plate policy (a practice in China that provides EVs distinctive license plates and exempts them from stringent license quota policy on vehicles) in encouraging the adoption of EVs in the early stages of their development. 
+To estimate the demand for EVs influenced by these policies, I develop a two-stage discrete choice model to identify consumer preferences for both license plate types and vehicle models. This model is then used to quantify the welfare impacts of subsidies and the green license policy in Beijing from 2014 to 2015.
+Counterfactual analysis reveals that green license policy in Beijing is cost-effective in promoting EV sales, equivalent to approximately \$5839 in EV subsidies. 
+However, the impact of the green license policy on consumer surplus largely depends on the number of firms competing in the EV market. Additionally, the study finds that neither EV subsidies nor the green license policy led to significant substitution between EVs and gasoline vehicles (GVs) during the sample period, indicating limited environmental gains from these EV promotion policies.
+Furthermore, the implementation of the license quota policy in Beijing resulted in estimated environmental gains of \$0.51 to \$1.19 billion, but also a total welfare loss of \$3.59 billion. When considering the license quota policy, the adoption of the green license policy and EV subsidies could efficiently improve overall welfare.
+These findings demonstrate the effectiveness of EV policies in putting more EVs on the road and underscore the critical role of government in promoting fuel-saving technologies.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+## Heterogeneous Impacts of Vertical Restraints Antitrust Event? Evidence from China ”
+**_Working Paper_**
+**_Abstract:_** In this paper, I analyze the effects of China’s first antitrust case on the practice of resale price maintenance in the automobile market in August 2014. I investigate the impacts and duration of this event using a difference-in-differences framework. The results indicate that the antitrust case led to a negative sales impact of - 9.108% on Audi products. However, the relationship between transaction prices set by dealers and manufacturers’ suggested retail prices (MSRP) set by manufacturers remained unchanged after the antitrust case, suggesting that the Audi antitrust event was
+a one-time market shock.
 
+<!--
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
@@ -261,4 +261,5 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+-->
 
