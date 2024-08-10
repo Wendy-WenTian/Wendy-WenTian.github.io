@@ -6,13 +6,15 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
+  - title: "CV"
+    url: /files/Wen_Tian_PSU_CV.pdf
+    
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/
-  - title: "CV"
-    url: /files/Wen_Tian_PSU_CV.pdf
+  
     
   # - title: "Portfolio"
   #   url: /portfolio/
