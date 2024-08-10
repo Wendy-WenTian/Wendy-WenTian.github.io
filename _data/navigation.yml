@@ -10,8 +10,7 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /_teaching/2014-spring-teaching-1.md
-
+    url: /teaching/
   - title: "CV"
     url: /files/Wen_Tian_PSU_CV.pdf
     
