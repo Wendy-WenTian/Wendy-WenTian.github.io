@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm a Ph.D. candidate in the $$\color{lightblue}{Department of Economics}$$ at the Pennsylvania Penn State University. 
+Welcome! I'm a Ph.D. candidate in the $$\color{lightblue}{Department \space of \space Economics}$$ at the Pennsylvania Penn State University. <code style="color : LightSkyBlue">text</code>
 
 My research fields are Industrial Organization Applied Microeconomics, and Environmental Economics. My current research is on the effects of policies promoting electric vehicles, such as subsidies and the green license plate policy, on consumer purchasing behaviors and firms' pricing strategies in the automobile industry.
 
