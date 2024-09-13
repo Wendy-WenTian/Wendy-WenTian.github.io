@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm a Ph.D. candidate in the $$\color{CornflowerBlue}{\small \text{Department of Economics}}$$ at the $$\color{CornflowerBlue}{\normalsize\text{Pennsylvania State University}}$$. 
+Welcome! I'm a Ph.D. candidate in the $$\color{CornflowerBlue}{\small \text{Department of Economics}}$$ at the $$\color{CornflowerBlue}{\normalsize\text{Pennsylvania}}$$  \color{CornflowerBlue}{\small\text{State University}}$$. 
 
-My research fields are $$\color{CornflowerBlue}{\text{Industrial Organization}}$$ and $$\color{CornflowerBlue}{\text{Applied Microeconomics}}$$. My current research is on the effects of policies promoting electric vehicles, such as subsidies and the green license plate policy, on consumer purchasing behaviors and firms' pricing strategies in the automobile industry.
+My research fields are $$\color{CornflowerBlue}{\small \text{Industrial Organization}}$$ and $$\color{CornflowerBlue}{\small \text{Applied Microeconomics}}$$. My current research is on the effects of policies promoting electric vehicles, such as subsidies and the green license plate policy, on consumer purchasing behaviors and firms' pricing strategies in the automobile industry.
 
 Before my Ph.D., I obtained an M.Phil. in Economics from the Chinese University of Hong Kong and a B.A. in Economics from Fudan University.
 
