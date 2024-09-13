@@ -10,7 +10,7 @@ Welcome! I'm a Ph.D. candidate in the $$\color{CornflowerBlue}{\small \text{Depa
 
 My research fields are $$\color{CornflowerBlue}{\small \text{Industrial Organization}}$$ and $$\color{CornflowerBlue}{\small \text{Applied Microeconomics}}$$. My current research is on the effects of policies promoting electric vehicles, such as subsidies and the green license plate policy, on consumer purchasing behaviors and firms' pricing strategies in the automobile industry.
 
-Before my Ph.D., I obtained an M.Phil. in Economics from the Chinese University of Hong Kong and a B.A. in Economics from Fudan University.
+Before my Ph.D., I obtained an $$\color{CornflowerBlue}{\small \text{M.Phil. in Economics}}$$ from the $$\color{CornflowerBlue}{\small \text{Chinese University of Hong Kong}}$$ and a $$\color{CornflowerBlue}{\small \text{B.A. in Economics}}$$ from $$\color{CornflowerBlue}{\small \text{Fudan University}}$$.
 
 I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). 
 
