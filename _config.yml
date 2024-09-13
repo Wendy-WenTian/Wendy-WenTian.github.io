@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png" # "Profile0.jpg" 
   name             : "Wen Tian"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics, PSU"
-  employer         : "The Pennsylvania State University"
-  location         : "University Park, PA 16802"
+  bio              : "Ph.D. Candidate in Economics, Penn State"
+  employer         : "Penn State University"
+  location         : " The Pennsylvania State University, University Park, PA 16802"
   uri              : # URL
   email            : "wkt5064@psu.edu" 
 
