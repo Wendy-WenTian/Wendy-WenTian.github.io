@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm a Ph.D. candidate in the $$\color{CornflowerBlue}{\small \textrm{Department of Economics}}$$ at the $$\color{CornflowerBlue}{\small \textsf{Pennsylvania}}$$  $$\color{CornflowerBlue}{\small \textnormal{State}}$$ $$\color{CornflowerBlue}{\small \text{University}}$$. 
+Welcome! I'm a Ph.D. candidate in the $$\color{CornflowerBlue}{\small \textsf{Department of Economics}}$$ at the $$\color{CornflowerBlue}{\small \textsf{Pennsylvania}}$$  $$\color{CornflowerBlue}{\small \textsf{State}}$$ $$\color{CornflowerBlue}{\small \textsf{University}}$$. 
 
-My research fields are $$\color{CornflowerBlue}{\small \text{Industrial Organization}}$$ and $$\color{CornflowerBlue}{\small \text{Applied Microeconomics}}$$. My current research is on the effects of policies promoting electric vehicles, such as subsidies and the green license plate policy, on consumer purchasing behaviors and firms' pricing strategies in the automobile industry.
+My research fields are $$\color{CornflowerBlue}{\small \textsf{Industrial Organization}}$$ and $$\color{CornflowerBlue}{\small \textsf{Applied Microeconomics}}$$. My current research is on the effects of policies promoting electric vehicles, such as subsidies and the green license plate policy, on consumer purchasing behaviors and firms' pricing strategies in the automobile industry.
 
-Before my Ph.D., I obtained an $$\color{CornflowerBlue}{\small \text{M.Phil. in Economics}}$$ from the $$\color{CornflowerBlue}{\small \text{Chinese University of Hong Kong}}$$ and a $$\color{CornflowerBlue}{\small \text{B.A. in Economics}}$$ from $$\color{CornflowerBlue}{\small \text{Fudan University}}$$.
+Before my Ph.D., I obtained an $$\color{CornflowerBlue}{\small \textsf{M.Phil. in Economics}}$$ from the $$\color{CornflowerBlue}{\small \textsf{Chinese University of Hong Kong}}$$ and a $$\color{CornflowerBlue}{\small \textsf{B.A. in Economics}}$$ from $$\color{CornflowerBlue}{\small \textsf{Fudan University}}$$.
 
 I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). 
 
