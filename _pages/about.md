@@ -14,22 +14,29 @@ Before my Ph.D., I obtained an $$\color{CornflowerBlue}{\small \textsf{M.Phil. i
 
 I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). My job market paper can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_JMP_PSU.pdf).-->
 
-Welcome! I'm an Economics Ph.D. candidate at Penn State University. 
+Welcome! I'm an Economics Ph.D. candidate at [Penn State University](https://econ.la.psu.edu/). 
 
 My research fields are Industrial Organization and Applied Microeconomics. My current research focus on the electric vehicle market. I evaluate the impacts of two primary policies for electric vehicles adoption: subsidies and the green license plate policy on consumer purchasing behaviors and firms' pricing strategies using evidence from Beijing, China. 
 
-Before my Ph.D., I obtained an $$\color{CornflowerBlue}{\small \textsf{M.Phil. in Economics}}$$ from the $$\color{CornflowerBlue}{\small \textsf{Chinese University of Hong Kong}}$$ and a $$\color{CornflowerBlue}{\small \textsf{B.A. in Economics}}$$ from $$\color{CornflowerBlue}{\small \textsf{Fudan University}}$$.
+Before my Ph.D., I obtained an M.Phil. in Economics from the [Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/econ/en-gb/) and a B.A. in Economics from [Fudan University](https://econ.fudan.edu.cn/).
 
 I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). 
 
-\textbf{Job Market Paper:} [Policies for Electric Vehicles Adoption: Evidence from Beijing 🚗](https://wendy-wentian.github.io/files/Wen_Tian_JMP_PSU.pdf)
+## Working Paper ## 
 
-\textbf{Abstract:} In response to global climate change and environmental problems, policymakers worldwide have implemented various policies to deploy electric vehicles (EVs). 
+**Job Market Paper:** [Policies for Electric Vehicles Adoption: Evidence from Beijing 🚗](https://wendy-wentian.github.io/files/Wen_Tian_JMP_PSU.pdf)
+
+<details>
+  <summary> Abstract </summary>
+  In response to global climate change and environmental problems, policymakers worldwide have implemented various policies to deploy electric vehicles (EVs). This paper employs a structural model to evaluate the impacts of two demand-side interventions -EV subsidies and the green license plate (GLP) policy- on EVs adoption and examines the welfare impacts of these policies. Using data from China's automobile industry, I estimate a demand model that endogenizes consumer license plate choices and vehicle purchase decisions while accounting for consumer demographic heterogeneity. On the supply side, I estimate marginal costs assuming Nash-Bertrand pricing. My counterfactual analysis shows that the GLP policy was strikingly effective in promoting EV sales, equivalent to approximately $7,839 per EV in subsidies during the data period in Beijing. However, it led to increased market power for EV producers and resulted in increasing EV prices. When considering environmental externalities, the EV subsidies and the GLP policy improve net welfare by 3.16% and 6.84%, respectively. Additionally, I evaluate the welfare results by adjusting subsidies and the GLP policy, and find alternative policy designs that improve efficiency compared to Beijing's current practice.
+</details>
+
+<!-- \textbf{Abstract:} In response to global climate change and environmental problems, policymakers worldwide have implemented various policies to deploy electric vehicles (EVs). 
 This paper employs a structural model to evaluate the impacts of two demand-side interventions -EV subsidies and the green license plate (GLP) policy- on EVs adoption and examines the welfare impacts of these policies. Using data from China's automobile industry, I estimate a demand model that endogenizes consumer license plate choices and vehicle purchase decisions while accounting for consumer demographic heterogeneity. 
 On the supply side, I estimate marginal costs assuming Nash-Bertrand pricing.
 My counterfactual analysis shows that the GLP policy was strikingly effective in promoting EV sales, equivalent to approximately $7,839 per EV in subsidies during the data period in Beijing. However, it led to increased market power for EV producers and resulted in increasing EV prices.
 When considering environmental externalities, the EV subsidies and the GLP policy improve net welfare by 3.16% and 6.84%, respectively. 
-Additionally, I evaluate the welfare results by adjusting subsidies and the GLP policy, and find alternative policy designs that improve efficiency compared to Beijing's current practice. 
+Additionally, I evaluate the welfare results by adjusting subsidies and the GLP policy, and find alternative policy designs that improve efficiency compared to Beijing's current practice. -->
 
 <!-- I received my M.Phil. in economics from CUHK, Hong Kong in 2019, and my B.A. in economics from Fudan University, China in 2016. -->
 
