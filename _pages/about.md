@@ -20,7 +20,7 @@ My research fields are Industrial Organization and Applied Microeconomics. My cu
 
 Before my Ph.D., I obtained an M.Phil. in Economics from the [Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/econ/en-gb/) and a B.A. in Economics from [Fudan University](https://econ.fudan.edu.cn/).
 
-I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_CV.pdf). 
+I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). 
 
 ### Working Papers
 - *Demand-Side Policies for Electric Vehicles Adoption: Evidence from Beijing* 🚗 [(Job Market Paper)](https://wendy-wentian.github.io/files/Wen_Tian_JMP_PSU.pdf)
